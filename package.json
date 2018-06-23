@@ -6,7 +6,8 @@
     "radium": "^0.24.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+  "homepage": "https://myusername.github.io/click-game"
   },
   "scripts": {
     "start": "react-scripts start",
